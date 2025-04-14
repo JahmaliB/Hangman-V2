@@ -7,6 +7,7 @@ A more intermediate Hangman game built with React, MongoDB, using class-based co
 
 ## New Features
 Introduces player name, win percentage, and UI changes.
+Along with new tech usage such as: Mongodb by using Docker, Unit Testing with Jest, and Backend/Server using Node.js
 
 ## How to Play
 1. Guess letters one at a time to reveal the hidden word.
