@@ -1,9 +1,12 @@
-# Hangman
+# Hangman-V2
 
 ![Project Screenshot](Preview_SS.png)
 
 ## Description  
-A more intermediate Hangman game built with React using class-based components.
+A more intermediate Hangman game built with React, MongoDB, using class-based components.
+
+## New Features
+Introduces player name, win percentage, and UI changes.
 
 ## How to Play
 1. Guess letters one at a time to reveal the hidden word.
