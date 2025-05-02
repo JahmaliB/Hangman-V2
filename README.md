@@ -18,7 +18,7 @@ Along with new tech usage such as: Mongodb by using Docker, Unit Testing with Je
 
 1. Clone the repository of the project in the terminal using:
 ````
-git clone https://github.com/JahmaliB/Hangman.git
+git clone https://github.com/JahmaliB/Hangman-V2.git
 cd Hangman-V2
 ````
 2. Open Docker Desktop (have it running in the background)
